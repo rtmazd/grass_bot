@@ -24,7 +24,7 @@ https://grassfoundation.io/eligibility
 
 ### 邀请链接
 
-https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
+https://app.getgrass.io/register/?referralCode=KGq44pLnoVRFzH5
 
 ### user_id获取方法
 
