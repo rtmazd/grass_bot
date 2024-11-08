@@ -8,11 +8,6 @@ https://grassfoundation.io/eligibility
 
 [MsLolita/Grass-Claimer](https://github.com/MsLolita/Grass-Claimer)
 
-# 打赏
-
-ERC20 : 0xe47aA47319Eb2b4a31370620FEf0E72C6E717f8A
-
-Solana : GAkpA5ynWFfQqMUhEsfS3CrNT92Ah31kS6b1tcgiyq4U
 
 # 
 
