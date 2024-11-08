@@ -46,3 +46,4 @@ https://app.getgrass.io/register/?referralCode=KGq44pLnoVRFzH5
 ![3333](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/80e18c1f-da5d-40d4-a361-3506b44c6602)
 
 
+推荐最经济的代理 https://iproyal.cn/?r=696592（邀请链解注册有优惠) 挂过第一季都知道 天翼云的80%覆没 歪路已经帮你们走完
